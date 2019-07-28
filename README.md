@@ -1,13 +1,8 @@
-
 # SMPLPong
-
-  
 
 SMPLPong is a game that was created in only 42 hours at the **<a  href="https://www.semestergamejam.de">SemesterGameJam Summer Edition 2019</a>**.
 
 The theme of the hackathon was _Redirection_.
-
-  
 
 Created by:
 
@@ -25,11 +20,7 @@ Created by:
 
 - Moritz Will
 
-  
-
 <br/>
-
-  
 
 <a  href="https://gyazo.com/db3812e4775049c793158680f860b4ea"><img  width="80%"  alt="SMPLPong Menu"  src="https://i.gyazo.com/db3812e4775049c793158680f860b4ea.gif"  /></a>
 
